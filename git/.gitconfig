@@ -1,0 +1,15 @@
+[user]
+	email = l.jonas.fredriksson@gmail.com
+	name = Jonas Fredriksson
+[push]
+	default = simple
+[alias]
+	co = checkout
+	cb = checkout -b
+	br = branch
+	cm = commit -m
+	st = status
+	prev = checkout -
+	ls = log --oneline
+	branches = branch --all
+	remotes = remote --verbose
