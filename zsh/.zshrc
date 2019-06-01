@@ -75,6 +75,8 @@ ZSH_THEME="agnoster"
 plugins=(
     git
     colored-man-pages
+    kubectl
+    helm
 )
 
 source $ZSH/oh-my-zsh.sh
